@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array
+    name="zodiac">
+    <item>Aries</item>
+    <item>Taurus</item>
+    <item>Gemini</item>
+    <item>Cancer</item>
+    <item>Leo</item>
+    <item>Virgo</item>
+    <item>Libra</item>
+    <item>Scorpio</item>
+    <item>Sagittarius</item>
+    <item>Capricorn</item>
+    <item>Aquarius</item>
+    <item>Pisces</item>
+  </string-array>
+
+  <string-array
+    name="zodiac_details">
+    <item>Aries is the first astrological sign in the Zodiac, named for the
+      constellation of Aries, called The Ram in Hellenistic tradition, after
+      the
+      golden ram that rescued Phrixos, taking him to the land of Colchis.
+      Aries
+      is ruled by the planet Mars. Being the first sign in the zodiac,
+      Aries is
+      associated with the astrological first house. In Western
+      astrology, Aries
+      is often considered a masculine, positive (extrovert)
+      sign. It is also
+      considered a fire sign, and is one of four cardinal
+      signs.[2] Birthstone is
+      the Aquamarine. Individuals born when the Sun was
+      in this sign are called
+      Arians or Ariens.[3] Under the tropical zodiac, the
+      Sun enters Aries on the
+      moment of vernal equinox by definition on March 20,
+      leaving it on or about
+      April 20. Under the sidereal zodiac, it is currently
+      there roughly around
+      April 15 and May 15. In western astrology, this sign
+      is no longer aligned
+      with the constellation as a result of the precession of the equinoxes.
+    </item>
+    <item>Taurus is the second astrological sign in the Zodiac, originating
+      from
+      the constellation of Taurus. In astrology, Taurus is considered a
+      negative
+      (introvert) sign.[2] It is also considered an earth sign and one
+      of the
+      four fixed signs. Taurus is ruled by the planet Venus (which also
+      rules
+      Libra). Being the second sign of the zodiac, Taurus has been
+      associated
+      with the astrological second house.
+      Individuals born within the
+      period when
+      the Sun was in this sign are considered Taurus
+      individuals.
+      Under the
+      tropical zodiac, the Sun is in Taurus roughly from
+      April 20 to
+      May 21. In
+      sidereal astrology, this sign is no longer aligned
+      with the
+      constellation as
+      a result of the precession of the equinoxes.
+    </item>
+    <item>Gemini is the third astrological sign in the Zodiac,
+      originating from
+      the constellation of Gemini. In astrology, Gemini is
+      considered a
+      masculine, positive (extrovert) sign. Perhaps the most
+      dominant Geminian
+      characteristic is versatility. It is also considered an
+      air sign, and is
+      one of four mutable signs.[4] Gemini has been closely
+      associated with the
+      planet Mercury and is considered to be ruled by it. A
+      planet god known for
+      its intelligence, awakening, cleverness, wiseness,
+      high education, wise
+      man, or sage.</item>
+    <item>Cancer is the fourth astrological sign in the Zodiac, originating
+      from
+      the constellation of Cancer. In astrology, Cancer is considered a
+      feminine, negative (introvert) sign. It is also considered a water sign
+      and is one of four cardinal signs.[2] Cancer is ruled by the Moon. Being
+      the fourth sign in the zodiac, Cancer has been associated with the
+      astrological fourth house. Individuals born when the Sun was in this sign
+      are considered Cancerian individuals. Under the tropical zodiac, the Sun
+      enters Cancer on the moment of summer solstice by definition, or roughly
+      on June 21, leaving it around July 22. In western astrology, this sign is
+      no longer aligned with the constellation as a result of the precession of
+      the equinoxes[citation needed], and thus according to the more accurate
+      sidereal zodiac, the Sun enters Cancer from roughly July 16 until August
+      15.</item>
+    <item>Leo (♌) is the fifth astrological sign of the Zodiac, originating from
+      the constellation of Leo. In astrology, Leo is considered to be a
+      masculine, positive (extrovert) sign. It is also considered a fire sign
+      and is one of four fixed signs[2] ruled by the Sun. Being the fifth sign
+      of the zodiac, Leo has been associated with the astrological fifth house.
+      Individuals born when the Sun is in this sign are considered Leo
+      individuals. Under the tropical zodiac, Leo is occupied by the Sun from
+      July 23 to August 22 Under the sidereal zodiac, it is currently there
+      roughly from August 10 to September 15. Leos also have a second animal,
+      which in fact is the Tiger. Leos are the dominant Zodiac sign, and are the
+      strongest of the years.</item>
+    <item>Virgo (♍) is the sixth astrological sign in the Zodiac, originating
+      from the constellation of Virgo. In astrology, Virgo is considered a
+      negative (introvert) sign. It is also an earth sign and one of four
+      mutable signs. Virgo is traditionally ruled by the planet Mercury,
+      although Ceres has been suggested as the ruler of Virgo by some modern
+      astrologers. Being the sixth sign of the zodiac, Virgo has been associated
+      with the astrological sixth house.</item>
+    <item>Libra is the seventh astrological sign in the Zodiac, originating from
+      the constellation of Libra. In astrology, Libra is considered a
+      masculine,
+      positive (extrovert) sign. It is also considered an air sign
+      and is one of
+      four cardinal signs.[2] Libra is ruled by the planet Venus
+      (which also
+      rules Taurus). Being the seventh sign of the zodiac, Libra has
+      been
+      associated with the astrological seventh house.</item>
+    <item>Scorpio is the eighth astrological sign in the Zodiac, originating
+      from the constellation of Scorpius. Scorpio is considered a feminine,
+      negative (introverted) sign by most modern astrologers. It is also
+      considered a water sign and one of the four fixed signs.[2] The
+      dwarf-planet Pluto is the ruler of Scorpio. As the eighth sign in the
+      zodiac, Scorpio is associated with the astrological eighth house. The
+      lower arrow pointing up in the Scorpio symbol represents the venomous tail
+      of the Scorpion or claw of wolf.</item>
+    <item>Sagittarius is the ninth astrological sign in the Zodiac,
+      originating
+      from the constellation of Sagittarius. Sagittarius is
+      considered a
+      masculine, positive (extrovert) sign. It is also a fire
+      sign and one of the
+      four mutable signs.[2] Sagittarius is ruled by the
+      planet Jupiter.
+      Individuals born when the sun was in this sign are
+      considered Sagittarius
+      individuals. Under the sidereal zodiac, the sun
+      enters Sagittarius on
+      December 17 to January 20. Under the tropical
+      zodiac, it is there roughly
+      from Sagittarius on November 22 and exits on
+      December 21.</item>
+    <item>Capricorn is the tenth astrological sign in the Zodiac,
+      originating
+      from the constellation of Capricornus. In astrology, Capricorn
+      is
+      considered an introvert sign.[2] It is also considered an earth sign
+      and
+      one of the four cardinal signs. Capricorn is ruled by the planet
+      Saturn.
+      Being the tenth sign of the zodiac, Capricorn has been associated
+      with the
+      astrological tenth house. Individuals born when the Sun was in
+      this sign
+      are considered Capricorn individuals. Under the tropical zodiac,
+      the Sun
+      enters Capricorn by definition at the moment of winter solstice,
+      or roughly
+      at December 21, and leaves it around January 20. In western
+      astrology, this
+      sign is no longer aligned with the constellation as a
+      result of the
+      precession of the equinoxes.[citation needed] Under the
+      sidereal zodiac, it
+      is currently there roughly from January 15 to February
+      15.</item>
+    <item>Aquarius is the eleventh
+      astrological sign in the Zodiac, originating
+      from the constellation
+      Aquarius. In astrology, Aquarius is considered a
+      masculine, positive
+      (extrovert) sign. It is also considered an air sign and
+      is one of four
+      fixed signs.[3] Aquarius has been traditionally ruled by the
+      planet
+      Saturn, and, since its discovery, Uranus has been considered a
+      modern
+      ruler of this sign. Being the eleventh sign of the zodiac, Aquarius
+      is
+      associated with the astrological eleventh house.</item>
+    <item>Pisces is the twelfth astrological sign in the Zodiac, which
+      started
+      from the Pisces constellation.
+      It is also considered a water sign and one
+      of the four mutable signs. Pisces
+      has been traditionally ruled by the
+      planet Jupiter, but since its
+      discovery, Neptune has been considered a
+      modern ruler of this sign. Being
+      the twelfth sign, Pisces is associated
+      with the astrological twelfth
+      house.</item>
+  </string-array>
+
+</resources>
